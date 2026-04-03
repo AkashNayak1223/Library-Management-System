@@ -15,11 +15,15 @@ Tracking progress efficiently
 Jira (Task Management Tool)
 Agile Methodology
 Scrum Framework
+
+
 📋 Features (User Stories)
 Book Search & Catalogue
 Borrowing & Return System
 Fine & Penalty Management
 Member Registration
+
+
 🔄 Project Workflow
 Created user stories for the library system
 Broke down each story into smaller manageable tasks
@@ -29,15 +33,19 @@ Moved tasks through stages:
 To Do
 In Progress
 Done
+
+
 📊 Sprint Management
 All tasks were organized into a sprint (LMS Sprint 1)
 Progress was tracked using the Jira board
 Example progress:
+
 ✅ Book Search & Catalogue – Done
 🔵 Borrowing & Return System – In Progress
 ⬜ Fine & Penalty Management – To Do
 ⬜ Member Registration – To Do
 Tasks were updated regularly based on their status
+
 ✅ Results
 
 The project successfully demonstrates how Agile Scrum helps in organizing and managing tasks in a structured way. It provides a clear understanding of:
