@@ -53,9 +53,13 @@ The project successfully demonstrates how Agile Scrum helps in organizing and ma
 Workflow management
 Sprint planning
 Task tracking using Jira
+
+
 🚧 Limitations
 This is a simulation project (no actual system implementation)
 Limited collaboration (individual project)
+
+
 🔮 Future Scope
 Develop a complete working Library Management System
 Add features like notifications and automated fine calculation
